@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Seok Ye",
+      "surnames": "Lee",
+      "title": "",
+      "description": "",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  }
+}
