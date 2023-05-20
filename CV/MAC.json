@@ -8,12 +8,27 @@
     "profile": {
       "name": "Seok Ye",
       "surnames": "Lee",
+      "title": "Title",
       "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Valencia"
       }
     }
   },
   "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "seokyelee@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "664831133",
+          "countryCode": "+34"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
