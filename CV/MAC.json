@@ -19,6 +19,16 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/seok-ye-lee-a8196941",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/seokyelee",
+          "type": "other"
+        }
+      ],
       "contactMails": [
         "seokyelee@gmail.com"
       ],
