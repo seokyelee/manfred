@@ -22,6 +22,27 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Formación certificado profesional nivel 3 que equivale grado superior",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Generalitat valenciana/ Arte Rudé",
+          "description": "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        },
+        "finishDate": "2021-07-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Postgrado",
         "startDate": "2022-10-01",
         "institution": {
