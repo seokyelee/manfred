@@ -26,7 +26,7 @@
         "startDate": "2021-01-01",
         "institution": {
           "name": "Generalitat valenciana/ Arte Rudé",
-          "description": "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+          "description": "Diseño productos gráficos\n\nCon los programas de Adobe(photoshop, ilustrtor, InDesign y donde empecé conocer HTML, CSS y diseño UX.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
         },
         "finishDate": "2021-07-01",
         "linkedCompetences": [
@@ -36,6 +36,23 @@
           },
           {
             "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciada Cinematografía: homologado en España, 2020, Grado de Artes y Humanidades",
+        "startDate": "2001-03-01",
+        "institution": {
+          "name": "Universidad Kyung-Sung de Corea del Sur",
+          "description": "Al principio estudié en diseño gráfico en otra universidad y crucé tras examen para seguir con cine, donde aprendí guion, montaje, gramática de imagen(planos), técnicas sobre dirección, cámara, iluminación ...\n-participé como directora de arte 2001 Cortometraje de Film 16 mm (20min), titulado Visita. Ganó unos premios en los festivales de cortometraje, JindongJin y Seúl\n-Dirigí un corto con film\n2003  Guión, Dirección, Montaje. Cortometraje de Film 16mm (18min), titulado Vivid Violet. Se proyectó en 2004 en el Festival de Cine Independiente, Made in Busan"
+        },
+        "finishDate": "2004-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe Premiere Pro",
             "type": "technology"
           }
         ]
