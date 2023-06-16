@@ -31,6 +31,22 @@
         "finishDate": "2021-07-01",
         "linkedCompetences": [
           {
+            "name": "Adobe CC",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe InDesign",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
             "name": "CSS",
             "type": "technology"
           },
@@ -51,6 +67,27 @@
         },
         "finishDate": "2004-06-01",
         "linkedCompetences": [
+          {
+            "name": "Adobe Premiere Pro",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master Dirección de cine",
+        "startDate": "2009-02-01",
+        "institution": {
+          "name": "Nucine",
+          "description": "Dos cortometrajes se seleccionaron y proyectaron en La Mostra Valencia.\n2009  Dirección, guion, dirección de arte. Cortometraje DV(8min), titulado ¿Estás bien?.    Se proyectó en LA MOSTRA VALENCIA y Festival tirant avant 2010\n\n2010  Dirección, guion, dirección de arte, montaje. Cortometraje HD. Titulado El viento de mañana 23 min. Coproducido por el ayuntamiento de Ares del Maestrat.  Fue seleccionado a festival de cine en LA MOSTRA VALENCIA."
+        },
+        "finishDate": "2011-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe After Effects",
+            "type": "technology"
+          },
           {
             "name": "Adobe Premiere Pro",
             "type": "technology"
