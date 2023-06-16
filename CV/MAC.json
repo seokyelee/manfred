@@ -17,6 +17,60 @@
       }
     }
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Postgrado",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "ESAT - Escuela Superior de Arte y Tecnología - Valencia",
+          "description": "POSTGRADO ESPECIALIZADO EN UX/UI, MARKETING DIGITAL Y DESARROLLO WEB FRONT-END. Realice tres webs basadas las teorías más actuales posibles, gracias a por los profesores que realmente están activa en este sector.  ",
+          "URL": "https://seokyelee23.netlify.app/"
+        },
+        "finishDate": "2023-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          },
+          {
+            "name": "WooCommerce",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
