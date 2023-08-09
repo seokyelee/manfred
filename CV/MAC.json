@@ -104,6 +104,48 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Web portfolio",
+          "description": "Realice con React, CSS con Sass, Json etc. Realmente quise practicar todos hooks que de React. Y intenté crearla simple y funcional que sea intuitiva. ",
+          "URL": "https://seokyelee23.netlify.app/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -262,5 +304,12 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "projects": [
+      {
+        "name": "Web portfolio"
+      }
+    ]
   }
 }
