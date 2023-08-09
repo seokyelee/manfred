@@ -2,7 +2,7 @@
 
 # David Gutiérrez's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/191faa3f-453c-4e05-907a-291c9bccde6b).
 <br/>
 <br/>
 
