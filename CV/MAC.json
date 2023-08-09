@@ -6,16 +6,82 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Seok Ye",
-      "surnames": "Lee",
-      "title": "Title",
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
-        "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
-      }
+      "name": "David",
+      "surnames": "Gutiérrez",
+      "title": "Developer at Manfred",
+      "description": "Apasionado por el mundo de la creatividad, la programación, el diseño y la tecnología. Unir estas disciplinas genera siempre resultados diferenciadores y únicos. El desarrollo de aplicaciones móviles y webs me permite encontrar el equilibrio entre mis pasiones. ¡Fiel defensor de que la programación es realmente creativa!"
     }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Como desarrollador web senior, mi viaje desde ReactJS y Redux hasta la arquitectura de soluciones avanzadas ha sido emocionante. Liderando equipos y tomando decisiones estratégicas, he implementado prácticas de entrega continua y creado bibliotecas internas para acelerar el desarrollo y garantizar la consistencia en todas las aplicaciones. Colaborando con equipos interdisciplinarios y adoptando enfoques ágiles, he entregado proyectos exitosos con pasión y creatividad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-05-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones web utilizando ReactJS+Redux+ES6, bitBucket como control de versiones, Bit como biblioteca de componentes y Jira para la gestión de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Technology Solutions Professional - Azure AppDev & Infrastructure",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": "Trabajo en un equipo Agile como desarrollador de backend de Azure Cloud .Net Core.\n\nTecnologías: Azure Cloud, C#, .Net Core, AKS Kubernetes, Microservicios con Docker y Rancher como orquestador, CI-CD con Azure Pipelines.\n\nTrabajo para nuestro cliente Dorlet Waste para la gestión de contenedores de residuos como elementos de IoT a través de la nube de Azure.\n\nEstoy desarrollando una arquitectura de microservicios para el monitoreo y gestión de big data con el objetivo final de concienciar a los ciudadanos sobre el tratamiento de los residuos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Altran"
+        },
+        "roles": [
+          {
+            "name": "Junior Developer",
+            "startDate": "2012-09-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
+              {
+                "description": "Database expertise and Microsoft .NET Software Engineering .NET FRAMEWORK 3.5, SQLSERVER.\n\nWorking for Siemens Gamesa in SAFe 5.0 SCRUM team. Creating application that store and process information from Wind Turbines."
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "knowledge": {
     "studies": [
@@ -159,7 +225,7 @@
         },
         {
           "URL": "https://github.com/seokyelee",
-          "type": "other"
+          "type": "github"
         }
       ],
       "contactMails": [
