@@ -6,25 +6,25 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "David",
-      "surnames": "Gutiérrez",
-      "title": "Developer at Manfred",
-      "description": "Apasionado por el mundo de la creatividad, la programación, el diseño y la tecnología. Unir estas disciplinas genera siempre resultados diferenciadores y únicos. El desarrollo de aplicaciones móviles y webs me permite encontrar el equilibrio entre mis pasiones. ¡Fiel defensor de que la programación es realmente creativa!"
+      "name": "Seok",
+      "surnames": "Ye Lee",
+      "title": "Diseño UIUX & Front-End & Traducción",
+      "description": "TBD"
     }
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Manfred"
+          "name": "NokSan International Translation Service y EVERTRANS"
         },
         "roles": [
           {
-            "name": "Senior Software Developer",
-            "startDate": "2022-05-01",
+            "name": "Traductor autónomo",
+            "startDate": "2013-01-01",
             "challenges": [
               {
-                "description": "Como desarrollador web senior, mi viaje desde ReactJS y Redux hasta la arquitectura de soluciones avanzadas ha sido emocionante. Liderando equipos y tomando decisiones estratégicas, he implementado prácticas de entrega continua y creado bibliotecas internas para acelerar el desarrollo y garantizar la consistencia en todas las aplicaciones. Colaborando con equipos interdisciplinarios y adoptando enfoques ágiles, he entregado proyectos exitosos con pasión y creatividad."
+                "description": "#Noksan: 2018-actual -Traducción Coreano a Español, varios sectores de documentos, imágenes, web, app ...\n\n#EverTrans 2021, 2022 Jefa de la calidad de traducción: proyecto NIA de la Agencia Nacional de la Sociedad de la Información del gobierno, cuyo objetivo es mejorar las capacidades de traducción automática. \n\n#Navibration ExperiencesNavibration Experiences-App para viaje\nabr. 2018 - may. 2019 · 1 año 2 meses\n\n#Traducción del libroTraducción del libro\nImageTrainingEnglish.IncImageTrainingEnglish.Inc\nabr. 2016 - may. 2017 · 1 año 2 meses\n\n#Traducción e interpretación español y coreano\nUlsan Daily NewspaperUlsan Daily Newspaper\nabr. 2016 - may. 2016 · 2 meses\n\n#Corresponsal en el extranjero de joyería españolaCorresponsal en el extranjero de joyería española\nWOLGOK JEWELRY RESEARCH CENTERWOLGOK JEWELRY RESEARCH CENTER\njul. 2017 - dic. 2017 · 6 meses\n\n#Traductora y ayudante de dirección de eventos internacionales, Traductora y ayudante de dirección de eventos internacionales - Works world wideWorks world wide\njul. 2013 · 1 mesjul. 2013 · 1 mes Seúl, coreaSeúl, corea\nEula 2013, feria de Madrid IFEMA"
               }
             ]
           }
@@ -32,16 +32,16 @@
       },
       {
         "organization": {
-          "name": "Manfred"
+          "name": "The Smoke Seller Front"
         },
         "roles": [
           {
-            "name": "Developer",
-            "startDate": "2017-05-01",
-            "finishDate": "2022-05-31",
+            "name": "Ayudante de dirección y segunda cámara",
+            "startDate": "2010-07-01",
+            "finishDate": "2011-08-31",
             "challenges": [
               {
-                "description": "Desarrollo de aplicaciones web utilizando ReactJS+Redux+ES6, bitBucket como control de versiones, Bit como biblioteca de componentes y Jira para la gestión de proyectos"
+                "description": "¨On tour¨ largometraje documental sobre las bandas de rock en España."
               }
             ]
           }
@@ -49,16 +49,16 @@
       },
       {
         "organization": {
-          "name": "Microsoft"
+          "name": "Autonomo"
         },
         "roles": [
           {
-            "name": "Technology Solutions Professional - Azure AppDev & Infrastructure",
-            "startDate": "2015-09-01",
-            "finishDate": "2017-06-30",
+            "name": "Jefe de direccion Arte",
+            "startDate": "2006-05-01",
+            "finishDate": "2007-10-31",
             "challenges": [
               {
-                "description": "Trabajo en un equipo Agile como desarrollador de backend de Azure Cloud .Net Core.\n\nTecnologías: Azure Cloud, C#, .Net Core, AKS Kubernetes, Microservicios con Docker y Rancher como orquestador, CI-CD con Azure Pipelines.\n\nTrabajo para nuestro cliente Dorlet Waste para la gestión de contenedores de residuos como elementos de IoT a través de la nube de Azure.\n\nEstoy desarrollando una arquitectura de microservicios para el monitoreo y gestión de big data con el objetivo final de concienciar a los ciudadanos sobre el tratamiento de los residuos."
+                "description": "2006 Jefa de equipo de dirección de arte, largometraje film 35mm.\n Titulado Underground Rendez-vous,, CY FILM producción. \n Se estrenó en el cine el 15 de agosto de 2007.\n2007 Jefa del equipo de arte, preproducción de un largometraje film 35mm.\n Fabricamos las maquetas de nave espacial para una exposición en China.\n Diseño y fabricación del coche de policía secreta para un largometraje film 35mm."
               }
             ]
           }
@@ -66,16 +66,33 @@
       },
       {
         "organization": {
-          "name": "Altran"
+          "name": "(주)비주얼스토리공장 Visual Story GongjangComment"
         },
         "roles": [
           {
-            "name": "Junior Developer",
-            "startDate": "2012-09-01",
-            "finishDate": "2015-09-30",
+            "name": "Diseñadora, jefe de direccion arte",
+            "startDate": "2004-05-01",
+            "finishDate": "2006-05-31",
             "challenges": [
               {
-                "description": "Database expertise and Microsoft .NET Software Engineering .NET FRAMEWORK 3.5, SQLSERVER.\n\nWorking for Siemens Gamesa in SAFe 5.0 SCRUM team. Creating application that store and process information from Wind Turbines."
+                "description": "2004-2005 Diseñadora de plató en The sad love story , miniserie de 12captitulos. KIMJONGHAK producción. Se puso en TV , canal MBC Munhwa Broadcasting Corporation,, desde enero a marzo de 2005\n\n2005 Equipo de dirección de arte, largometraje film 35mm. Producido SIDUS PICTURE.\n Titulado El niño ha ido al paraiso, Boy Goes To Heaven. \n Se externó el Cine 11 de noviembre de 2005\n\n2005- 2006 Preproducción de dirección arte, miniserie especial, fantasía.\n Titulado Taewangsasingi. KIMJONGHAK producción. Se puso en TV, canal MBC Munhwa Broadcasting Corporation , desde 11 de septiembre de 2007."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escuela de arte privada"
+        },
+        "roles": [
+          {
+            "name": "Profesora de diseño",
+            "startDate": "1997-05-01",
+            "finishDate": "1999-12-31",
+            "challenges": [
+              {
+                "description": "Escuela admisión a la universidad."
               }
             ]
           }
