@@ -1,114 +1,37 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Seok Ye ",
-      "surnames": "Lee",
-      "title": "Diseño UIUX & Front-End",
+      "name": "Seok",
+      "surnames": "Ye Lee",
+      "title": "Diseño UIUX & Front-End & Traducción",
       "description": "Encantada de conocerle.\n\nOriginal de Busan, Corea del Sur, soñadora y curiosa. Licenciada en Cinematografia, trabajé como jefa del departamento de dirección de arte para cine y televisión hasta que decidí dar un giro a mi vida.\n\nEnamorada del castellano, llegué a Valencia e hice un master de dirección de Cine donde realicé dos cortometrajes que fueron seleccionados en La Mostra València. Tambien soy traductora, participé como jefa de calidad en el 'Proyecto de Construcción de Datos de Aprendizaje de Inteligencia Artificial' promovido por la Agencia Nacional de Inteligencia (NIA) dependiente del Ministerio de Ciencia y TIC.\n\nRealizo el grado superior de diseño de productos gráficos, donde me inicio en HTML y CSS. Continuo con el curso de Diseño UX: experiencia de usuario de UDEMI y formación certificada, sobre creación Web con WordPress. Actualmente terminando el postgrado especializado en Diseño y Desarrollo Web FrontEnd en la ESAT, trabajando con React, Javascript, WordPress, PHP, SASS con Git e incluyendo Digital Marketing SEO etc.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/30/fab10e15-b28a-45f9-90ca-e137e91745db_seokyelee.jpg",
-        "alt": "seokyelee.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/28ff90df-edff-4858-9bca-b0c490d22c87_linkedin-photo-25329.linkedin-photo-25329",
+        "alt": "23/12/14/28ff90df-edff-4858-9bca-b0c490d22c87_linkedin-photo-25329.linkedin-photo-25329"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJb7Dv8ExPYA0ROR1_HwFRo7Q)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
         "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Valencia"
+        "region": "Comunidad Valenciana"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/seok-ye-lee-a8196941"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/seokyelee"
+      }
+    ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "NokSan International Translation Service y EVERTRANS"
-        },
-        "roles": [
-          {
-            "name": "Traductor autónomo",
-            "startDate": "2013-01-01",
-            "challenges": [
-              {
-                "description": "#Noksan: 2018-actual -Traducción Coreano a Español, varios sectores de documentos, imágenes, web, app ...\n\n#EverTrans 2021, 2022 Jefa de la calidad de traducción: proyecto NIA de la Agencia Nacional de la Sociedad de la Información del gobierno, cuyo objetivo es mejorar las capacidades de traducción automática. \n\n#Navibration ExperiencesNavibration Experiences-App para viaje\nabr. 2018 - may. 2019 · 1 año 2 meses\n\n#Traducción del libroTraducción del libro\nImageTrainingEnglish.IncImageTrainingEnglish.Inc\nabr. 2016 - may. 2017 · 1 año 2 meses\n\n#Traducción e interpretación español y coreano\nUlsan Daily NewspaperUlsan Daily Newspaper\nabr. 2016 - may. 2016 · 2 meses\n\n#Corresponsal en el extranjero de joyería españolaCorresponsal en el extranjero de joyería española\nWOLGOK JEWELRY RESEARCH CENTERWOLGOK JEWELRY RESEARCH CENTER\njul. 2017 - dic. 2017 · 6 meses\n\n#Traductora y ayudante de dirección de eventos internacionales, Traductora y ayudante de dirección de eventos internacionales - Works world wideWorks world wide\njul. 2013 · 1 mesjul. 2013 · 1 mes Seúl, coreaSeúl, corea\nEula 2013, feria de Madrid IFEMA"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "The Smoke Seller Front"
-        },
-        "roles": [
-          {
-            "name": "Ayudante de dirección y segunda cámara",
-            "startDate": "2010-07-01",
-            "finishDate": "2011-08-31",
-            "challenges": [
-              {
-                "description": "¨On tour¨ largometraje documental sobre las bandas de rock en España."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Autonomo"
-        },
-        "roles": [
-          {
-            "name": "Jefe de direccion Arte",
-            "startDate": "2006-05-01",
-            "finishDate": "2007-10-31",
-            "challenges": [
-              {
-                "description": "2006 Jefa de equipo de dirección de arte, largometraje film 35mm.\n Titulado Underground Rendez-vous,, CY FILM producción. \n Se estrenó en el cine el 15 de agosto de 2007.\n2007 Jefa del equipo de arte, preproducción de un largometraje film 35mm.\n Fabricamos las maquetas de nave espacial para una exposición en China.\n Diseño y fabricación del coche de policía secreta para un largometraje film 35mm."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "(주)비주얼스토리공장 Visual Story GongjangComment"
-        },
-        "roles": [
-          {
-            "name": "Diseñadora, jefe de direccion arte",
-            "startDate": "2004-05-01",
-            "finishDate": "2006-05-31",
-            "challenges": [
-              {
-                "description": "2004-2005 Diseñadora de plató en The sad love story , miniserie de 12captitulos. KIMJONGHAK producción. Se puso en TV , canal MBC Munhwa Broadcasting Corporation,, desde enero a marzo de 2005\n\n2005 Equipo de dirección de arte, largometraje film 35mm. Producido SIDUS PICTURE.\n Titulado El niño ha ido al paraiso, Boy Goes To Heaven. \n Se externó el Cine 11 de noviembre de 2005\n\n2005- 2006 Preproducción de dirección arte, miniserie especial, fantasía.\n Titulado Taewangsasingi. KIMJONGHAK producción. Se puso en TV, canal MBC Munhwa Broadcasting Corporation , desde 11 de septiembre de 2007."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Escuela de arte privada"
-        },
-        "roles": [
-          {
-            "name": "Profesora de diseño",
-            "startDate": "1997-05-01",
-            "finishDate": "1999-12-31",
-            "challenges": [
-              {
-                "description": "Escuela admisión a la universidad."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
