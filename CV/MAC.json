@@ -11,8 +11,8 @@
       "title": "Diseño UIUX & Front-End & Traducción",
       "description": "Encantada de conocerle.\n\nOriginal de Busan, Corea del Sur, soñadora y curiosa. Licenciada en Cinematografia, trabajé como jefa del departamento de dirección de arte para cine y televisión hasta que decidí dar un giro a mi vida.\n\nEnamorada del castellano, llegué a Valencia e hice un master de dirección de Cine donde realicé dos cortometrajes que fueron seleccionados en La Mostra València. Tambien soy traductora, participé como jefa de calidad en el 'Proyecto de Construcción de Datos de Aprendizaje de Inteligencia Artificial' promovido por la Agencia Nacional de Inteligencia (NIA) dependiente del Ministerio de Ciencia y TIC.\n\nRealizo el grado superior de diseño de productos gráficos, donde me inicio en HTML y CSS. Continuo con el curso de Diseño UX: experiencia de usuario de UDEMI y formación certificada, sobre creación Web con WordPress. Actualmente terminando el postgrado especializado en Diseño y Desarrollo Web FrontEnd en la ESAT, trabajando con React, Javascript, WordPress, PHP, SASS con Git e incluyendo Digital Marketing SEO etc.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/01e6edb6-1d64-4d7b-ad29-e1e4933614ad_linkedin-photo-25329.linkedin-photo-25329",
-        "alt": "23/12/14/01e6edb6-1d64-4d7b-ad29-e1e4933614ad_linkedin-photo-25329.linkedin-photo-25329"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/14/713a81e3-f66b-45da-8a06-ace308c5b20b_linkedin-photo-25329.linkedin-photo-25329",
+        "alt": "23/12/14/713a81e3-f66b-45da-8a06-ace308c5b20b_linkedin-photo-25329.linkedin-photo-25329"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
@@ -32,6 +32,91 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Self-employed"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de diseño web y front-end",
+            "startDate": "2023-09-01",
+            "challenges": [
+              {
+                "description": "Skills: Formación y desarrollo · Aprendizaje permanente · Diseño de la interfaz de usuario · PhpMyAdmin · MySQL · cPanel · Diseño web · Diseño de front-end · PHP · WordPress · JavaScript · Hojas de estilos en cascada (CSS) · Figma"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NokSan International Translation Service y EVERTRANS"
+        },
+        "roles": [
+          {
+            "name": "Traductor autónomo",
+            "startDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "#Noksan: 2018-actual -Traducción Coreano a Español, varios sectores de documentos, imágenes, web, app ...\n\n#EverTrans 2021, 2022 Jefa de la calidad de traducción: proyecto NIA de la Agencia Nacional de la Sociedad de la Información del gobierno, cuyo objetivo es mejorar las capacidades de traducción automática.\n\n#Navibration Experiences-App para viaje\n\n#Traducción del libro / ImageTrainingEnglish.Inc\n\n#Traducción e interpretación Ulsan Daily Newspaper /entrevista del director de Museo Guggenheim Bilbao\n\n#Corresponsal en el extranjero de joyería española\nWOLGOK JEWELRY RESEARCH CENTERWOLGOK JEWELRY RESEARCH CENTER 6 meses\n\n#Traductora y ayudante de dirección de eventos internacionales- Works world wide /Feria de Madrid IFEMA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autonomo"
+        },
+        "roles": [
+          {
+            "name": "Jefe de direccion Arte",
+            "startDate": "2006-05-01",
+            "finishDate": "2007-10-31",
+            "challenges": [
+              {
+                "description": "2006 Jefa de equipo de dirección de arte, largometraje film 35mm.\nTitulado Underground Rendez-vous, CY FILM producción.\nSe estrenó en el cine el 15 de agosto de 2007.\n2007 Jefa del equipo de arte, preproducción de un largometraje film 35mm.\nFabricamos las maquetas de nave espacial para una exposición en China.\nDiseño y fabricación del coche de policía secreta para un largometraje film 35mm."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "(주)비주얼스토리공장 Visual Story GongjangComment"
+        },
+        "roles": [
+          {
+            "name": "Diseñadora, jefe de direccion arte",
+            "startDate": "2004-05-01",
+            "finishDate": "2006-05-31",
+            "challenges": [
+              {
+                "description": "2004-2005 Diseñadora de plató en The sad love story , miniserie de 12captitulos. KIMJONGHAK producción. Se puso en TV , canal MBC Munhwa Broadcasting Corporation,, desde enero a marzo de 2005\n\n2005 Equipo de dirección de arte, largometraje film 35mm. Producido SIDUS PICTURE.\nTitulado El niño ha ido al paraiso, Boy Goes To Heaven.\nSe externó el Cine 11 de noviembre de 2005\n\n2005- 2006 Preproducción de dirección arte, miniserie especial, fantasía.\nTitulado Taewangsasingi. KIMJONGHAK producción. Se puso en TV, canal MBC Munhwa Broadcasting Corporation , desde 11 de septiembre de 2007."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escuela de arte privada"
+        },
+        "roles": [
+          {
+            "name": "Profesora de diseño",
+            "startDate": "1997-05-01",
+            "finishDate": "1999-12-31",
+            "challenges": [
+              {
+                "description": "Escuela admisión a la universidad."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
