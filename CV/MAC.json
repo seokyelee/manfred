@@ -11,8 +11,8 @@
       "title": "Diseño UIUX & Front-End & Traducción",
       "description": "Encantada de conocerle.\n\nOriginal de Busan, Corea del Sur, trabajé como jefa del departamento de dirección de arte para cine y televisión hasta que decidí dar un giro a mi vida.\n\nEnamorada del castellano, llegué a Valencia y realicé dos cortometrajes que fueron seleccionados en La Mostra València. También soy traductora, participé como jefa de calidad en el 'Proyecto de Construcción de Datos de Aprendizaje de Inteligencia Artificial' promovido por la Agencia Nacional de Inteligencia (NIA) dependiente del Ministerio de Ciencia y TIC.\n\n2023 realizcé el grado superior de diseño de productos gráficos, donde me inicio en HTML y CSS. Continuo con el curso de Diseño UX: experiencia de usuario de UDEMI y formación certificada, sobre creación Web con WordPress. Actualmente terminando el postgrado especializado en Diseño y Desarrollo Web FrontEnd en la ESAT, trabajando con React, Javascript, WordPress, PHP, SASS con Git e incluyendo Digital Marketing SEO etc.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/03/cf9a7186-47e1-493a-8ebb-23053060ea71_linkedin-photo-25329.linkedin-photo-25329",
-        "alt": "24/04/03/cf9a7186-47e1-493a-8ebb-23053060ea71_linkedin-photo-25329.linkedin-photo-25329"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/03/aa533779-660c-4163-93ce-01ec32a3063e_linkedin-photo-25329.linkedin-photo-25329",
+        "alt": "24/04/03/aa533779-660c-4163-93ce-01ec32a3063e_linkedin-photo-25329.linkedin-photo-25329"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJh14zFWtJYA0RWdoxvb4Vtuk)",
@@ -278,131 +278,76 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Formación certificado profesional nivel 3 que equivale grado superior",
+        "name": "Bachelor of Arts - BA, Diseño y arte",
+        "startDate": "1994-03-01",
+        "institution": {
+          "name": "Instituto Koare Art and Design"
+        },
+        "finishDate": "1997-02-28"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diseño visual",
+        "startDate": "1997-01-01",
+        "institution": {
+          "name": "Universidad Bu-koung"
+        },
+        "finishDate": "1999-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Formación certificado profesional nivel 3, Diseño de productos gráficos",
         "startDate": "2021-01-01",
         "institution": {
-          "name": "Generalitat valenciana/ Arte Rudé",
-          "description": "Diseño productos gráficos\n\nCon los programas de Adobe(photoshop, ilustrtor, InDesign y donde empecé conocer HTML, CSS y diseño UX.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+          "name": "RUDÉ, ARTE Y FORMACIÓN, S.L."
         },
-        "finishDate": "2021-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Adobe CC",
-            "type": "technology"
-          },
-          {
-            "name": "Adobe Illustrator",
-            "type": "technology"
-          },
-          {
-            "name": "Adobe InDesign",
-            "type": "technology"
-          },
-          {
-            "name": "Adobe Photoshop",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2021-07-31"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Licenciada Cinematografía: homologado en España, 2020, Grado de Artes y Humanidades",
-        "startDate": "2001-03-01",
+        "name": "Licenciado: homologado en España, 2020,Grado de Artes y Humanidades, Cinematografía",
+        "startDate": "2000-01-01",
         "institution": {
-          "name": "Universidad Kyung-Sung de Corea del Sur",
-          "description": "Al principio estudié en diseño gráfico en otra universidad y crucé tras examen para seguir con cine, donde aprendí guion, montaje, gramática de imagen(planos), técnicas sobre dirección, cámara, iluminación ...\n-participé como directora de arte 2001 Cortometraje de Film 16 mm (20min), titulado Visita. Ganó unos premios en los festivales de cortometraje, JindongJin y Seúl\n-Dirigí un corto con film\n2003  Guión, Dirección, Montaje. Cortometraje de Film 16mm (18min), titulado Vivid Violet. Se proyectó en 2004 en el Festival de Cine Independiente, Made in Busan"
+          "name": "Universidad Kyoung Sung"
         },
-        "finishDate": "2004-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Adobe Premiere Pro",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Master Dirección de cine",
-        "startDate": "2009-02-01",
-        "institution": {
-          "name": "Nucine",
-          "description": "Dos cortometrajes se seleccionaron y proyectaron en La Mostra Valencia.\n2009  Dirección, guion, dirección de arte. Cortometraje DV(8min), titulado ¿Estás bien?.    Se proyectó en LA MOSTRA VALENCIA y Festival tirant avant 2010\n\n2010  Dirección, guion, dirección de arte, montaje. Cortometraje HD. Titulado El viento de mañana 23 min. Coproducido por el ayuntamiento de Ares del Maestrat.  Fue seleccionado a festival de cine en LA MOSTRA VALENCIA."
-        },
-        "finishDate": "2011-01-01",
-        "linkedCompetences": [
-          {
-            "name": "Adobe After Effects",
-            "type": "technology"
-          },
-          {
-            "name": "Adobe Premiere Pro",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2003-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Postgrado",
+        "name": "Master privado, Direccion de cine",
+        "startDate": "2009-01-01",
+        "institution": {
+          "name": "Nucine"
+        },
+        "finishDate": "2011-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Postgrado, UX/UI, MARKETING DIGITAL Y DESARROLLO WEB FRONT-END",
         "startDate": "2022-10-01",
         "institution": {
           "name": "ESAT - Escuela Superior de Arte y Tecnología - Valencia",
-          "description": "POSTGRADO ESPECIALIZADO EN UX/UI, MARKETING DIGITAL Y DESARROLLO WEB FRONT-END. Realice tres webs basadas las teorías más actuales posibles, gracias a por los profesores que realmente están activa en este sector.  ",
-          "URL": "https://seokyelee23.netlify.app/"
-        },
-        "finishDate": "2023-06-01",
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Figma",
-            "type": "technology"
-          },
-          {
-            "name": "Github",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Sass",
-            "type": "technology"
-          },
-          {
-            "name": "WooCommerce",
-            "type": "technology"
-          },
-          {
-            "name": "WordPress",
-            "type": "technology"
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/03/a927648b-f8c2-4e6d-8ed8-adf968205e99_linkedin-photo-25329.linkedin-photo-25329",
+            "alt": "24/04/03/a927648b-f8c2-4e6d-8ed8-adf968205e99_linkedin-photo-25329.linkedin-photo-25329"
           }
-        ]
+        },
+        "finishDate": "2023-07-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "diploma",
+        "startDate": "2007-01-01",
+        "institution": {
+          "name": "Escuela de idioma, Delibes, Dile, Salamanca"
+        },
+        "finishDate": "2009-01-01"
       }
     ],
     "softSkills": [
